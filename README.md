@@ -1,3 +1,17 @@
+# PASS IN
+
+Projeto para gerenciamento de eventos, onde é possível verificar os participantes presentes nos eventos, mostrando o horário de cadastro e check-in dos mesmos. 
+
+📱 Tecnologias Utilizados:
+ ◾ HTML
+ ◾ CSS
+ ◾ JavaScript
+ ◾ TypeScript
+ ◾ React
+ ◾ Vite
+ ◾ Tailwind
+ ◾ NodeJs 
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
